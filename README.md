@@ -36,5 +36,3 @@ Este repositório contém as atividades realizadas na disciplina, organizadas de
 | 14 | Atividade 14 | [Clique aqui](https://github.com/7777755134/atividade14-web) |
 
 
-```bash
-git clone https://github.com/7777755134/atividade1-web.git
