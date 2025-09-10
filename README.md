@@ -27,7 +27,7 @@ Este repositório contém as atividades realizadas na disciplina, organizadas de
 | 5 | Atividade 5 | [Clique aqui](https://7777755134.github.io/atividade5-web/) |
 | 6 | Atividade 6 | [Clique aqui](https://7777755134.github.io/atividade6-web/) |
 | 7 | Atividade 7 | [Clique aqui](https://7777755134.github.io/atividade7-web/) |
-| 8 | Atividade 8 | [Clique aqui](https://github.com/7777755134/atividade8-web) |
+| 8 | Atividade 8 | [Clique aqui]( https://7777755134.github.io/atividade8-web/) |
 | 9 | Atividade 9 | [Clique aqui](https://github.com/7777755134/atividade9-web) |
 | 10 | Atividade 10 | [Clique aqui](https://github.com/7777755134/atividade10-web) |
 | 11 | Atividade 11 | [Clique aqui](https://github.com/7777755134/atividade11-web) |
